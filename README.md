@@ -36,3 +36,7 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www12.senado.leg.br/
 ## 4. Preparação dos Dados
 ## 5. Armazenamento dos Dados
 ## 6. Apresentação dos Dados
+
+## Andamento do Projeto
+Em Andamento.<br>
+Entrega: 26/04/2023
