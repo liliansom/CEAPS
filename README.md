@@ -8,3 +8,31 @@ O valor máximo mensal da cota depende da unidade da federação que o deputado 
 
 https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/dados-abertos-ceaps
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www12.senado.leg.br/institucional/documentos/seminarios/conhecendo-o-senado/pdfs/cotas-safin.pdf
+
+
+## Passo a Passo
+
+1. Definição do Problema
+2. Obtenção dos Dados &check;<br>
+3. Exploração dos Dados &check;<br>
+4. Preparação dos Dados
+5. Armazenamento dos Dados
+6. Apresentação dos Dados
+
+## 1. Definição do Problema
+1) Quem são os TOP 5 maiores gastos de cada ano?
+
+        1.1) Podemos detalhar com o que foram realizados esses gastos?
+
+2) Com qual tipo de despesa foi gasto mais dinheiro?
+
+3) Qual será a melhor forma para analisar se um gasto pode ser categorizado como suspeito?
+
+        3.1) Podemos criar um filtro para gastos suspeitos?
+
+
+## 2. Obtenção dos Dados
+## 3. Exploração dos Dados
+## 4. Preparação dos Dados
+## 5. Armazenamento dos Dados
+## 6. Apresentação dos Dados
