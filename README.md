@@ -16,7 +16,7 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www12.senado.leg.br/
 2. Obtenção dos Dados &check;<br>
 3. Exploração dos Dados &check;<br>
 4. Preparação dos Dados
-5. Armazenamento dos Dados
+5. Levantamento dos Dados
 6. Apresentação dos Dados
 
 ## 1. Definição do Problema
