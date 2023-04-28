@@ -5,38 +5,44 @@ O Ato da Mesa nº 43 de 2009, que detalha as regras para o uso da CEAP, determin
 
 O valor máximo mensal da cota depende da unidade da federação que o deputado representa. Essa variação ocorre por causa das passagens aéreas e está relacionada ao valor do trecho entre Brasília e o Estado que o deputado representa.
 
-
-https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/dados-abertos-ceaps
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www12.senado.leg.br/institucional/documentos/seminarios/conhecendo-o-senado/pdfs/cotas-safin.pdf
+Neste projeto serão realizados desde a importação dos dados até a visualização dos dados finais respondendo aos problemas de negócio.
 
 
 ## Passo a Passo
 
 1. Definição do Problema
-2. Obtenção dos Dados &check;<br>
-3. Exploração dos Dados &check;<br>
+2. Obtenção dos Dados
+3. Exploração dos Dados
 4. Preparação dos Dados
 5. Levantamento dos Dados
 6. Apresentação dos Dados
 
-## 1. Definição do Problema
-1) Quem são os TOP 5 maiores gastos de cada ano?
+Para conferir todo o passo a passo do projeto:
+<a class="nav-link" href="https://medium.com/@liliansmatsumoto/cotas-para-exerc%C3%ADcio-da-atividade-parlamentar-dos-senadores-ceaps-ed9eed322716" target="_blank">Clique aqui</a><br>
 
-        1.1) Podemos detalhar com o que foram realizados esses gastos?
+## ## Ferramentas Utilizadas
 
-2) Com qual tipo de despesa foi gasto mais dinheiro?
+Desenvolvido com:<br>
+<li>Anaconda, https://www.anaconda.com/;</li>
+<li>Notebook Jupyter, https://jupyter.org/</li>
+<li>Utilizada linguagem Python 3.9, instaladas Bibliotecas Pandas, Matplotlib, Seaborn, IPython, locale, babel, Warnings</li>
+<li>Dados das CEAPS: https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/dados-abertos-ceaps</li>
 
-3) Qual será a melhor forma para analisar se um gasto pode ser categorizado como suspeito?
+## Acessando o Projeto
 
-        3.1) Podemos criar um filtro para gastos suspeitos?
+1. Anaconda/ Jupyter<br>
 
+Clonar este repositório para o seu Github.<br>
+Importar o repositório para uma pasta de seu computador.<br>
+Realizar a instalação do programa Anaconda, instalar o Python 3.9 e, dentro de Anaconda Navigator, realizar o download do Jupyter.<br>
 
-## 2. Obtenção dos Dados
-## 3. Exploração dos Dados
-## 4. Preparação dos Dados
-## 5. Armazenamento dos Dados
-## 6. Apresentação dos Dados
+No prompt do Anaconda, realizar o download das bibliotecas Pandas, Matplotlib, Json, Requests, Datetime.<br>
+Abrir Jupyter Notebook no Anaconda.<br>
+Procurar pela pasta do repositório.<br>
+Abrir o arquivo 'CEAPS.ipynb',<br>
+Apertar em 'RUN'.<br>
+Após este passo, o programa irá rodar todo o projeto.<br>
+
 
 ## Andamento do Projeto
-Em Andamento.<br>
-Entrega: 26/04/2023
+Entregue.
